@@ -1,0 +1,54 @@
+.h50 {
+  height: 50vh;
+}
+
+.box {
+  border-radius: 0.5rem;
+  width: 50%;
+  border: 0.1 solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2rem 20rem;
+}
+
+.box p {
+  font-size: 3rem;
+  color: white;
+}
+
+.style-1 {
+  font-family: "Indie Flower", cursive;
+}
+
+.style-2 {
+  font-family: "Courgette", cursive;
+}
+
+.style-3 {
+  font-family: "Dancing Script", cursive;
+}
+
+.style-4 {
+  font-family: "Francois One", sans-serif;
+}
+
+.style-5 {
+  font-family: "Indie Flower", cursive;
+}
+
+.style-6 {
+  font-family: "Pacifico", cursive;
+}
+
+.style-7 {
+  font-family: "Lobster", cursive;
+}
+
+.style-8 {
+  font-family: "Permanent Marker", cursive;
+}
+
+.style-9 {
+  font-family: "Satisfy", cursive;
+}
